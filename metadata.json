@@ -1,0 +1,6 @@
+{
+  "name": "MOD VAULT",
+  "description": "Private owner-only Minecraft mod and file storage platform powered by Supabase Auth, PostgreSQL, and Supabase Storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
